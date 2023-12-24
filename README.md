@@ -19,3 +19,4 @@ We will be using React to create a map showing places of interests with APIs for
 - in terminal:
   - $ npm i
   - $ npm start
+    test
